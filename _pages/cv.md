@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. and M.Sc. in Engineering Physics, Instituto Superior Técnico - Universidade de Lisboa, 2010-2015
+* Ph.D in Computational Neuroscience, École Normale Supérieure (PSL - Université Paris), 2017-2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* since 2022: Postdoctoral Researcher
+  * Computational Neuroscience Laboratory - Imperial College London, United Kingdom
+  * Supervisor: Claudia Clopath
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2021: Ph.D. candidate
+  * LNC2, DEC (INSERM U960) - École Normale Supérieure, France
+  * Missions abroad: 1-month stay at the Neurobiology Laboratory at NIEHS (NC, USA), hosted by J.L. Yakel
+  * Supervisor: Boris Gutkin
+
+* 2016-2017: Research Assistant
+  * LNC2, DEC (INSERM U960) - École Normale Supérieure, France
+  * Supervisor: Boris Gutkin
+
+* 2015-2016: Research Assistant
+  * Theoretical Neuroscience Lab - Champalimaud Foundation, Portugal
+  * Supervisor: Christian Machens
   
-Skills
+Computer Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python : Advanced
+* XPP/XPPAUT : Advanced
+* MatLab : Intermediate
 
 Publications
 ======
@@ -48,12 +51,15 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Mentoring and Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Grants & Awards
 ======
-* Currently signed in to 43 different slack teams
+* Research scholarship from the Fondation pour la Recherche sur Alzheimer (90k €) | 2017-2020
+* Travel grant, Neuromodulation of Neural Microcircuits conference (300 CHF) | 2019
+* ERASMUS scholarship at Université Libre de Bruxelles | 2014-2015
+* High Academic Performance Distinction | 2011-2012 and 2013-2014
