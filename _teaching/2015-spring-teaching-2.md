@@ -4,7 +4,7 @@ collection: teaching
 type: "Cogmaster program"
 permalink: /teaching/2015-spring-teaching-1
 venue: "ENS"
-date: 2021-10-01 to 2022-01-31
+date: 2020-03-01 to 2020-07-31
 location: "Paris, France"
 ---
 
