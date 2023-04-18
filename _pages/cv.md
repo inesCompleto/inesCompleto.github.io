@@ -59,7 +59,7 @@ Mentoring and Teaching
   
 Grants & Awards
 ======
-* Research scholarship from the Fondation pour la Recherche sur Alzheimer (90k €) | 2017-2020
-* Travel grant, Neuromodulation of Neural Microcircuits conference (300 CHF) | 2019
-* ERASMUS scholarship at Université Libre de Bruxelles | 2014-2015
-* High Academic Performance Distinction | 2011-2012 and 2013-2014
+* Research scholarship from the Fondation pour la Recherche sur Alzheimer (90k €), 2017-2020
+* Travel grant, Neuromodulation of Neural Microcircuits conference (300 CHF),  2019
+* ERASMUS scholarship at Université Libre de Bruxelles, 2014-2015
+* High Academic Performance Distinction, 2011-2012 and 2013-2014
