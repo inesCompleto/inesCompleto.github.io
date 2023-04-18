@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Inês Guerreiro"
+title                    : "Inês C. Guerreiro"
 title_separator          : "-"
-name                     : &name "Inês Guerreiro"
+name                     : &name "Inês C. Guerreiro"
 description              : &description "postdoc @ Clopath Lab" 
 url                      : https://inesCompleto.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Inês Guerreiro"
+  name             : "Inês C. Guerreiro"
   avatar           : "profile.png"
   bio              : "Postdoc at Clopath Lab - Computational Neuroscience Laboratory"
   location         : "Imperial College London"
