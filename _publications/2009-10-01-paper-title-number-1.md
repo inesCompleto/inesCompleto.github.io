@@ -1,7 +1,7 @@
 ---
 title: "Hippocampal interneuronal α7 nAChRs modulate theta oscillations in freely moving mice"
 collection: publications
-permalink: https://github.com/inesCompleto/inesCompleto.github.io/blob/34a9dce8215823a257bc698adc3708ca0658441b/files/Gu_2020.pdf
+permalink: /publication/2010-10-01-paper-title-number-1
 excerpt: ''
 date: 2020-06-09
 venue: 'Cell reports'
