@@ -1,11 +1,13 @@
+
 ---
-title: "Hippocampal interneuronal α7 nAChRs modulate theta oscillations in freely moving mice"
+title: "Recurring Cholinergic Inputs Induce Local Hippocampal Plasticity through Feedforward Disinhibition"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
-date: 2020-06-09
-venue: 'Cell reports'
-paperurl: 'http://academicpages.github.io/files/Gu_2020.pdf'
+date: 2022-09-01
+venue: 'Eneuro'
+paperurl: 'http://academicpages.github.io/files/Guerreiro_2022.pdf'
 ---
+
 
 [Download paper here](http://academicpages.github.io/files/Gu_2020.pdf)
