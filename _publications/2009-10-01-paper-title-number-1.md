@@ -1,4 +1,3 @@
-
 ---
 title: "Recurring Cholinergic Inputs Induce Local Hippocampal Plasticity through Feedforward Disinhibition"
 collection: publications
