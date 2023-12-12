@@ -5,7 +5,7 @@ permalink: https://github.com/inesCompleto/inesCompleto.github.io/blob/34a9dce82
 excerpt: ''
 date: 2020-06-09
 venue: 'Cell reports'
-paperurl: 'http://academicpages.github.io/files/Gu_2020.pdf'
+paperurl: 'http://inesCompleto.github.io/files/Gu_2020.pdf'
 ---
 
-[Download paper here](http://academicpages.github.io/files/Gu_2020.pdf)
+[Download paper here](http://inesCompleto.github.io/files/Gu_2020.pdf)
