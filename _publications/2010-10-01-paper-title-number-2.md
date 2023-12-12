@@ -5,7 +5,7 @@ permalink: /publication/2022-09-01-cholinergic-inputs-and-hippocampal-plasticity
 excerpt: ''
 date: 2022-09-01
 venue: 'Eneuro'
-paperurl: 'http://academicpages.github.io/files/Guerreiro_2022.pdf'
+paperurl: 'http://inesCompleto.github.io/files/Guerreiro_2022.pdf'
 ---
 
-[Download paper here](http://academicpages.github.io/files/Guerreiro_2022.pdf)
+[Download paper here](http://inesCompleto.github.io/files/Guerreiro_2022.pdf)
