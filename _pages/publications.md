@@ -9,8 +9,7 @@ author_profile: true
   For an updated list of publications see <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-Peer-reviewed publications
-=====
+### Peer-reviewed publications
 
 **I.C. Guerreiro**, C. Clopath. *Memory’s gatekeeper: The role of PFC in the encoding of congruent events*, PNAS (2024)
 [[pdf]](http://inesCompleto.github.io/files/Guerreiro_2024.pdf)
@@ -29,8 +28,8 @@ Z. Gu, K.G. Smith, G.M. Alexander, **I. Guerreiro**, S.M. Dudek, B. Gutkin, P. J
 [[journal]](https://www.cell.com/cell-reports/fulltext/S2211-1247(20)30720-8)
 
 
-PhD Thesis
-=====
+### PhD Thesis
+
 *Cholinergic and multiple-circuit mechanisms of hippocampal theta-rhythm generation*<br> 
 Supervisor: Boris Gutkin
 [link](https://theses.hal.science/tel-04116901/document)
