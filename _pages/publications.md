@@ -5,9 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  For an updated list of publications see <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+For an updated list of publications see my [Google Scholar profile](https://scholar.google.com/citations?user=x-jVR_UAAAAJ&hl=pt-PT&oi=sra) 
+
 
 ### Peer-reviewed publications
 
