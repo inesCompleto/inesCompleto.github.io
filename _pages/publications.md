@@ -9,8 +9,14 @@ author_profile: true
   For an updated list of publications see <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+Peer-reviewed publications
+=====
+
 **I.C. Guerreiro**, C. Clopath. *Memory’s gatekeeper: The role of PFC in the encoding of congruent events*, PNAS (2024)
-[[pdf]]()
+[[pdf]](http://inesCompleto.github.io/files/Guerreiro_2024.pdf)
+[[journal]](https://www.pnas.org/doi/abs/10.1073/pnas.2403648121)
+[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2024.02.01.578356v1.abstract)
+[[github]](https://github.com/inesCompleto/role_PFC_consolidation)
 
 **I. Guerreiro**, Z. Gu, J.L. Yakel, B.S. Gutkin. *Recurring Cholinergic Inputs Induce Local Hippocampal Plasticity through Feedforward Disinhibition*, eNeuro (2022)
 [[pdf]](http://inesCompleto.github.io/files/Guerreiro_2022.pdf)
