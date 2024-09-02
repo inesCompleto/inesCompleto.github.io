@@ -12,10 +12,6 @@ author_profile: true
 **I. Guerreiro**, Z. Gu, J.L. Yakel, B.S. Gutkin. *Recurring Cholinergic Inputs Induce Local Hippocampal Plasticity through Feedforward Disinhibition*, eNeuro (2022)
 [[pdf]]()
 
-Z. Gu, K.G. Smith, G.M. Alexander, **I. Guerreiro**, S.M. Dudek, B. Gutkin, P. Jensen, J.L. Yakel. *Hippocampal Interneuronal α7 nAChRs Modulate Theta Oscillations in Freely Moving Mice*, Cell Reports (2020)
-[[pdf]](http://inesCompleto.github.io/files/Gu_2020.pdf)
-[[journal]](https://www.cell.com/cell-reports/fulltext/S2211-1247(20)30720-8)
-
 Z. Gu, K.G. Smith, G.M. Alexander, I. Guerreiro, S.M. Dudek, B. Gutkin, P. Jensen, J.L. Yakel. *Hippocampal Interneuronal α7 nAChRs Modulate Theta Oscillations in Freely Moving Mice*, Cell Reports (2020)
 [[pdf]](http://inesCompleto.github.io/files/Gu_2020.pdf)
 [[journal]](https://www.cell.com/cell-reports/fulltext/S2211-1247(20)30720-8)
