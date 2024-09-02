@@ -32,6 +32,7 @@ Z. Gu, K.G. Smith, G.M. Alexander, **I. Guerreiro**, S.M. Dudek, B. Gutkin, P. J
 PhD Thesis
 =====
 *Cholinergic and multiple-circuit mechanisms of hippocampal theta-rhythm generation*
+
 Supervisor: Boris Gutkin
 [link](https://theses.hal.science/tel-04116901/document)
 
