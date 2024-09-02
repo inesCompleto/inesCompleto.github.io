@@ -34,8 +34,4 @@ PhD Thesis
 *Cholinergic and multiple-circuit mechanisms of hippocampal theta-rhythm generation*
 Supervisor: Boris Gutkin
 [link](https://theses.hal.science/tel-04116901/document)
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
