@@ -10,7 +10,7 @@ redirect_from:
 
 <br>
 
-I am a researcher in  <font style="color: rgb(153,0,76)">Computational and Theoretical Neuroscience</font>, with a focus on uncovering the cellular and circuit-level mechanisms of memory. 
+I am a researcher in  <font style="color: rgb(198,142,76)">Computational and Theoretical Neuroscience</font>, with a focus on uncovering the cellular and circuit-level <font style="color: rgb(198,142,76)">mechanisms of memory</font>. 
 
 <br>
 
