@@ -8,19 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in Computational and Theoretical Neuroscience, with a focus on uncovering the cellular and circuit-level mechanisms of memory.  
+<br>
+
+I am a researcher in  <font style="color: rgb(153,0,76)">Computational and Theoretical Neuroscience</font>, with a focus on uncovering the cellular and circuit-level mechanisms of memory. 
+
+<br>
 
 ---
 
 #### Research Interests 
-<ul style="list-style-type: circle; font-size:0.95em; margin-top:0.3em;">
-  <li>Memory encoding and consolidation</li>
-  <li>Maturation of memory circuits</li>
-  <li>Brain-wide interactions</li>
-  <li>Brain oscillations</li>
-  <li>Neuromodulators</li>
-  <li>Network dynamics</li>
-</ul>
+- Memory encoding and consolidation
+- Maturation of memory circuits
+- Brain-wide interactions
+- Brain oscillations
+- Neuromodulators
+- Network dynamics
+
+<br>
 
 ---
 
