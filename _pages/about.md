@@ -10,7 +10,8 @@ redirect_from:
 
 I am a researcher in **Computational and Theoretical Neuroscience**, interested in studying the cellular and circuit **mechanisms of memory**. 
 
-**Research interests:** 
+Research interests: 
+--------------------------
 * Memory encoding and consolidation
 * Maturation of memory circuits
 * Brain-wide interactions
@@ -18,7 +19,8 @@ I am a researcher in **Computational and Theoretical Neuroscience**, interested 
 * Neuromodulators
 * Network dynamics
 
-**Techniques:** 
+Techniques:
+--------------------------
 - Mathematical modeling of neural systems
 - Dynamical systems analysis
 - Neural data (eeg) analysis
