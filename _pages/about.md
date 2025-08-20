@@ -13,12 +13,14 @@ I am a researcher in Computational and Theoretical Neuroscience, with a focus on
 ---
 
 ### Research Interests 
-- Memory encoding and consolidation  
-- Maturation of memory circuits  
-- Brain-wide interactions  
-- Brain oscillations  
-- Neuromodulators  
-- Network dynamics  
+<ul style="list-style-type: circle; font-size:0.95em;">
+  <li>Memory encoding and consolidation</li>
+  <li>Maturation of memory circuits</li>
+  <li>Brain-wide interactions</li>
+  <li>Brain oscillations</li>
+  <li>Neuromodulators</li>
+  <li>Network dynamics</li>
+</ul> 
 
 ---
 
