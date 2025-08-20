@@ -8,9 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in **Computational and Theoretical Neuroscience**, interested in studying the cellular and circuit mechanisms of memory encoding. 
+I am a researcher in **Computational and Theoretical Neuroscience**, interested in studying the cellular and circuit **mechanisms of memory**. 
 
-I am currently working as a postdoctoral researcher at the **University College London (UCL)**, where I am studying the maturation of networks for spatial memory by combining analysis of electrophysiological recordings and modeling of neural networks. Previous to this, I worked as a postdoc in the Clopath Lab at **Imperial College London**, studying how the hippocampus and mPFC interact and support memory formation at different stages, and completed my PhD at **École Normale Supérieure** (Paris) where I combined biophysical and mean-field models to investigate the generation of theta rhythm in a septal-entorhinal-hippocampal circuit.<br><br><br><br>
+**Research interests:** 
+- Memory encoding and consolidation
+- Maturation of memory circuits
+- Brain-wide interactions 
+- Brain oscillations
+- Neuromodulators
+- Network dynamics
 
+**Techniques:** 
+- Mathematical modeling of neural systems
+- Dynamical systems analysis
+- Neural data (eeg) analysis
+- Dimensionality reduction and clustering
+- Machine learning
 
-**Fields of interest:** calcium-based synaptic plasticity models, mean-field models, hippocampal microcircuits, hippocampal theta rhythm, hippocampo-cortical mechanisms of memory consolidation
+ 
+  
