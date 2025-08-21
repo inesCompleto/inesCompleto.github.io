@@ -9,57 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
+
+Work
+======
+2024- **Postdoc** at University College London (London, UK)
+2022-2024 **Postdoc** at Imperial College London (London, UK)
+2016-2017 **Research Assistant** at École Normale Supérieure (France, Paris)
+2015-2016 **Research Assistant** at Champalimaud Foundation (France, Paris)
+
+
 Education
 ======
-* B.Sc. and M.Sc. in Engineering Physics, Instituto Superior Técnico - Universidade de Lisboa, 2010-2015
-* Ph.D in Computational Neuroscience, École Normale Supérieure (PSL - Université Paris), 2017-2021
+2017-2021 **PhD in computational neuroscience** at École Normale Supérieure (Paris, France)
+2010-2015 **MSc in Engineering Physics** at Instituto Superior Técnico (Lisbon, Portugal)
 
-Work experience
+ 
+Teaching and supervision
 ======
-* since 2022: Postdoctoral Researcher
-  * Computational Neuroscience Laboratory - Imperial College London, United Kingdom
-  * Supervisor: Claudia Clopath
+2023 **Lecturer** at Janelia Junior Scientist Workshop on Theoretical Neuroscience, Hopfield Networks and Associative Memory (Janelia Research Campus, USA)
+2023 **Tutor** at OIST Computational Neuroscience Course (Okinawa, Japan)
+2022-2023 **Grader** of final project reports for MSc award at Imperial College London (London, UK)
+2021 **Teaching assistant** at ENS Cogmaster program, Introduction to Computational Modeling (Paris, France)
+2020-2021 **Co-advisor** of 2 master students at ENS Cogmaster program (Paris, France)
 
-* 2017-2021: Ph.D. candidate
-  * LNC2, DEC (INSERM U960) - École Normale Supérieure, France
-  * Missions abroad: 1-month stay at the Neurobiology Laboratory at NIEHS (NC, USA), hosted by J.L. Yakel
-  * Supervisor: Boris Gutkin
 
-* 2016-2017: Research Assistant
-  * LNC2, DEC (INSERM U960) - École Normale Supérieure, France
-  * Supervisor: Boris Gutkin
+Other research experiences
+======
+2018 **Visiting researcher** at NIEHS (NC, USA)
+2014-2015 **Master internship** at Université libre de Bruxelles (Brussels, Belgium)
 
-* 2015-2016: Research Assistant
-  * Theoretical Neuroscience Lab - Champalimaud Foundation, Portugal
-  * Supervisor: Christian Machens
-  
-Computer Skills
-======
-* Python : Advanced
-* XPP/XPPAUT : Advanced
-* MatLab : Intermediate
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Mentoring and Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Grants & Awards
-======
-* Research scholarship from the Fondation pour la Recherche sur Alzheimer (90k €), 2017-2020
-* Travel grant, Neuromodulation of Neural Microcircuits conference (300 CHF),  2019
-* ERASMUS scholarship at Université Libre de Bruxelles, 2014-2015
-* High Academic Performance Distinction, 2011-2012 and 2013-2014
+ 
